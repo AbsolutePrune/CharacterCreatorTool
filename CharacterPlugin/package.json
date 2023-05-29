@@ -1,0 +1,11 @@
+{
+  "name": "com.chilean_miner.charactercreator",
+  "version": "1.0.0",
+  "displayName": "Character Creator",
+  "description": "This is an example package",
+  "dependencies": {
+    "com.solidalloy.type-references": "2.16.0"
+  },
+  "type": "tool",
+  "hideInEditor": false
+}

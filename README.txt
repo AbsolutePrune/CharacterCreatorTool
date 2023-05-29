@@ -1,7 +1,7 @@
 READ ME
 
 SETUP:
-Download the zip file from the drive link
+Download the zip file
 Extract the zip and place the four folders inside your projects package folder
 (you can open the package folder by right clicking packages in the unity inspector -> show in explorer)
 Return to unity which should update its package list
@@ -22,6 +22,9 @@ Healthpack
 If you use the projectile primaryfire make sure that whatever you use for the bullet has the bullet script
 attached. The bullet prefab in the package comes with this by default but can be applied to similar gameobjects
 
+WEAPONS:
+To add a weapon you must give it a name and give the name of the model you want to add, the model should be kept
+with the other models that come with the package
 
 BUGS/ERRORS
 Creating, inspecting and then destroying a gun causes some errors to appear in the console logs which only
